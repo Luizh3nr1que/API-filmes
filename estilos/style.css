@@ -42,15 +42,16 @@ body {
 }
 
 .titulo p {
-    font-size: 15px;
+    font-weight: bold;
+    font-size: 14px;
     color: var(--text-color);
     margin-bottom: 30px;
 }
 
 p {
     margin-top: 20px;
-    color: rgb(165, 165, 165);
-    font-size: 17px;
+    color: rgb(139, 139, 139);
+    font-size: 15px;
 }
 
 #capa {
