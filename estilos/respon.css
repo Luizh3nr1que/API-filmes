@@ -1,0 +1,85 @@
+@media screen and (max-width:1000px) {
+    #resumo {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:812px) {
+    #filmes {
+        height: 380px;
+    }
+
+    #resumo {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:679px) {
+    #filmes {
+        height: 380px;
+    }
+
+    #title {
+        font-size: 15px;
+    }
+
+    #resumo {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:610px) {
+    .container {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #filmes {
+        height: 380px;
+    }
+
+    #title {
+        font-size: 15px;
+    }
+
+    #resumo {
+        font-size: 12px;
+    }
+}
+
+@media screen and (max-width:429px) {
+    #filmes {
+        height: 380px;
+    }
+
+    #title {
+        font-size: 13px;
+    }
+
+    #resumo {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width:429px) {
+    .container {
+        margin-left: 0;
+        margin-right: 0;
+    }
+
+    #filmes {
+        height: 380px;
+    }
+
+    #title {
+        font-size: 12px;
+    }
+
+    #resumo {
+        font-size: 10px;
+    }
+
+    #capa {
+        width: 100px;
+    }
+}
