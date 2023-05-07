@@ -71,6 +71,11 @@ p {
     flex-direction: row;
     justify-content: center;
     color: white;
+    transition: all 0.4s ease-in;
+}
+
+#filmes:hover {
+    border: rgb(56, 56, 56) 0.1em solid;
 }
 
 #title {
