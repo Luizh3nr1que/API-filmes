@@ -5,7 +5,12 @@
     }
 }
 
-@media screen and (max-width:812px) {
+@media screen and (max-width:1000px) {
+    .container {
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+
     #filmes {
         height: 380px;
     }
