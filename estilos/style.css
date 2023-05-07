@@ -78,6 +78,12 @@ p {
     border: rgb(56, 56, 56) 0.1em solid;
 }
 
+#erro {
+    color: red;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
 #title {
     font-size: 20px;
     font-weight: bold;
