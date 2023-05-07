@@ -4,7 +4,7 @@ const IMG_URL = 'https://image.tmdb.org/t/p/w500';
 const language = 'language=pt-BR';
 
 function getMovie() {
-    const movieId = Math.floor(Math.random() * 1000) + 1;
+    const movieId = Math.floor(Math.random() * 2000) + 1;
     const url = `${BASE_URL}${movieId}?api_key=${API_KEY}&${language}`;
 
     fetch(url)
